@@ -53,11 +53,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Trie
 |  |
 | ------- |
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
+## Sliding Window
+|  |
+| ------- |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
