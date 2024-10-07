@@ -34,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
