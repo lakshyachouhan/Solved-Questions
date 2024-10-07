@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
