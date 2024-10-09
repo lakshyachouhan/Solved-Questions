@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
