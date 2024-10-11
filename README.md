@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
+| [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
