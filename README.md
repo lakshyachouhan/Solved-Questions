@@ -174,4 +174,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+## Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
