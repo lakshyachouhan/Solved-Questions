@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3312-number-of-changing-keys) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Rolling Hash
 |  |
