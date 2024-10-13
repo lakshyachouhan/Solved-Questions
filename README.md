@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
