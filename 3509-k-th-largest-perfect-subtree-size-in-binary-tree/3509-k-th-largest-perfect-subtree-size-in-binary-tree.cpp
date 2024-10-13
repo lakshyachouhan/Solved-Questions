@@ -22,10 +22,10 @@ public:
         if(leftH == -1 || rightH == -1 || leftH != rightH)
             return -1;
 
-        int totalNodes = leftH + rightH + 1;
+        int totalNodes = (1 << (leftH + 1)) - 1;
         maxHeap.push(totalNodes);
 
-        return totalNodes;
+        return leftH + 1;
     }
 
     int kthLargestPerfectSubtree(TreeNode* root, int k) {
