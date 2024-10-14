@@ -228,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
