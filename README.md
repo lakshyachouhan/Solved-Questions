@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1054-complement-of-base-10-integer) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Segment Tree
 |  |
 | ------- |
