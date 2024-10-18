@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
+| [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
+| [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
+| [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
@@ -273,10 +276,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union Find
 |  |
 | ------- |
+| [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
 |  |
