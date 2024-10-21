@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
