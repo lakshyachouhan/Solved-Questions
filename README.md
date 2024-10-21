@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2465-shifting-letters-ii) |
