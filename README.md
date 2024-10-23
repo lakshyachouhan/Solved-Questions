@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Trie
 |  |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,11 +274,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -303,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
