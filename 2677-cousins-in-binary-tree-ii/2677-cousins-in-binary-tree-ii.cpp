@@ -71,6 +71,8 @@ public:
         level++;
 
         if(level == sum.size()) break ;
+        // last level pr uske child kuch nhi 
+        // toh no need to traverse leaf nodes 
         }
 
         return root ;
