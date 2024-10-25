@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1002-maximum-width-ramp) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Sorting
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
