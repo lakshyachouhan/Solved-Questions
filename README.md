@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0806-domino-and-tromino-tiling](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
