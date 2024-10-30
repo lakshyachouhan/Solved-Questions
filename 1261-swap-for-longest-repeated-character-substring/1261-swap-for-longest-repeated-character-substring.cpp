@@ -1,5 +1,11 @@
 class Solution {
 public:
+/* 
+edge case 
+text = "acbaaa"
+Output 4
+*/
+
     int maxRepOpt1(string text) {
         
         if(text.size() == 1)    return 1 ;
