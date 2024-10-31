@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2554-minimum-total-distance-traveled](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
