@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
