@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3312-number-of-changing-keys](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3312-number-of-changing-keys) |
+| [3451-string-compression-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3451-string-compression-iii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
