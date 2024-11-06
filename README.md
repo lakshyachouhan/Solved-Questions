@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1054-complement-of-base-10-integer) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Segment Tree
 |  |
