@@ -2,6 +2,11 @@ class Solution {
 public:
     vector<int> getMaximumXor(vector<int>& nums, int maximumBit) {
         
+        // hr query ke liye maximum xor jo possible hai vo 
+        // 2^maximumbit - 1 
+        // matlab ye hamesha baneaga / ans 
+        // -> curr ^ k = 2^maximumbit - 1 
+
         vector<int> ans ;
         int xor_total = 0 ;
 
