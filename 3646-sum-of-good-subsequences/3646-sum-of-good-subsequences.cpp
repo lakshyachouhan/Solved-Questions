@@ -3,6 +3,13 @@ class Solution {
 public:
     int sumOfGoodSubsequences(vector<int>& nums) {
         
+        // jitni baar -1, +1 wala element hai , utni baar ye bhi subseq
+        // mein add -> freq
+        // -1, +1 wale subseq ke jo sum the vo isme bhi add honge 
+        // to make a new including curr 
+        // DRY RUN ON GIVEN CASES , approach ban jayega , ki kaise 
+        // aya 
+
         unordered_map<ll,ll> freq; 
         unordered_map<ll,ll> eleSums ;
         ll ans = 0 ;
