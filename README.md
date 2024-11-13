@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
