@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -352,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
