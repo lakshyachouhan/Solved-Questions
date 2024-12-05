@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2465-shifting-letters-ii) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
