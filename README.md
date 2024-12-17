@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -413,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
