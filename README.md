@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0650-2-keys-keyboard) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
