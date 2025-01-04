@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1054-complement-of-base-10-integer) |
 | [1940-maximum-xor-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
