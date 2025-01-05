@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1755-defuse-the-bomb](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1940-maximum-xor-for-each-query) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -454,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
