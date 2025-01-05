@@ -3,25 +3,32 @@ public:
     string shiftingLetters(string s, vector<vector<int>>& shifts) {
         
         int n = s.size();
-        vector<int> prefix(n,0);
+        vector<int> diff(n+1,0) ;
 
-        for(auto &i:shifts){
+        for(auto i:shifts){
 
-            int s = i[0] , e = i[1] ;
-            int m = i[2] == 0 ? -1 : 1 ;
+            int s = i[0] , e = i[1] , dir = i[2];
 
-            prefix[s] += m ;
-            
-            if(e+1 < n) prefix[e+1] -= m ;  
+            if(dir == 0){
+                diff[s] += -1 ;
+                diff[e+1] += 1 ;
+            }
+
+            else{
+                diff[s] += 1 ;
+                diff[e+1] += -1 ;
+            }
         }
 
         for(int i=1; i<n; i++)
-            prefix[i] += prefix[i-1];
+            diff[i] += diff[i-1];
 
         for(int i=0; i<n; i++){
             
-            s[i] = ((s[i] - 'a' + prefix[i] + 26*10000) % 26 + 'a');
+            int index = s[i]-'a' ; // 0 to 26 
 
+            int newVal = (index + diff[i] + 10000*26)%26 ;
+            s[i] = newVal + 'a' ;
         }
 
         return s ;
