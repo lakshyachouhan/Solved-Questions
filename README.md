@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2554-minimum-total-distance-traveled](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
