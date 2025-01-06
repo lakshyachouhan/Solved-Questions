@@ -11,6 +11,11 @@ public:
         vector<ll> left(n,-1);      // left se n min. elements ka sum
         vector<ll> right(n,-1);     // right ne n max. elements ka sum
 
+                /*
+            left mein bhi ith element included hai
+            & right mein bhi ith element included hai
+        */
+
         ll s = n/3 ;
         ll sum = 0 ;
         for(ll i=0; i<n; i++){
