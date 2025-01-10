@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1025-minimum-cost-for-tickets) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
+| [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
