@@ -22,6 +22,9 @@ public:
             int currDist = top.first , currX = top.second.first ;
             int currY = top.second.second;
 
+            if(currDist > dist[currX][currY])
+                continue ;
+
             for(int i=0; i<4; i++){
                 
                 // agr same dir toh change nhi krna agr different 
