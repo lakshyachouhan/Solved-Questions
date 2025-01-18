@@ -671,4 +671,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
