@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Enumeration
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Sliding Window
 |  |
 | ------- |
