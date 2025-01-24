@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
+| [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -612,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1876-map-of-highest-peak) |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0133-clone-graph) |
+| [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Number Theory
 |  |
