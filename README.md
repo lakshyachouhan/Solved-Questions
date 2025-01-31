@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -658,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0684-redundant-connection](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
