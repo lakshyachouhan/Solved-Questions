@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3429-special-array-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
