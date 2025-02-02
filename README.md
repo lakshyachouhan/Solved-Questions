@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
 ## Array
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
 ## Sliding Window
 |  |
 | ------- |
