@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3427-special-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3427-special-array-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Queue
