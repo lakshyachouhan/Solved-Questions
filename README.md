@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
 | ------- |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
 | ------- |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
 | ------- |
