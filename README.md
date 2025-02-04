@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2145-grid-game) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
