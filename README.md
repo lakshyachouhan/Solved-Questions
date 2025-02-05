@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
