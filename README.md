@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1835-decode-xored-permutation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1835-decode-xored-permutation) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1876-map-of-highest-peak](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1054-complement-of-base-10-integer) |
+| [1835-decode-xored-permutation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1835-decode-xored-permutation) |
 | [1940-maximum-xor-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
