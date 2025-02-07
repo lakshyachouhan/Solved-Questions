@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1304-longest-happy-string) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
 | [0650-2-keys-keyboard](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0670-maximum-swap) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
