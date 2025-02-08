@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
+| [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
 ## Matrix
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
