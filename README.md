@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2621-find-xor-beauty-of-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2621-find-xor-beauty-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
