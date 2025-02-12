@@ -1,11 +1,6 @@
 class Solution {
 public:
-    int maximumSum(vector<int>& nums) {
-        
-        unordered_map<int,int> mp ;
-        int ans = -1 ;
-
-        auto convert = [&](int ele){
+     int convert(int ele){
 
             int sum = 0 ;
             while(ele){
@@ -14,7 +9,12 @@ public:
             }
 
             return sum ;
-        };
+     }
+
+    int maximumSum(vector<int>& nums) {
+        
+        unordered_map<int,int> mp ;
+        int ans = -1 ;
 
         for(auto &ele:nums){
 
