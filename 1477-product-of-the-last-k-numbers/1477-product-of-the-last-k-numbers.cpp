@@ -23,6 +23,10 @@ public:
         int n = prefix.size();
         int ansIndex = n - k - 1;  // last k elements ke ek piche wala
 
+        // [0 , 0 , 9 ]  prefix -> [0,0,9]
+        // get(3)
+        // [1 , 2 , 3]   prefix -> [1,3,6] , iske liye picha wala index nhi 
+        // hai matlab all elements ka sum 
         if(ansIndex < 0)
             return prefix[ansIndex+1] != 0 ? product : 0 ; 
 
