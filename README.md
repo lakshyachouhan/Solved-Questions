@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -777,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0494-target-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
+| [1160-letter-tile-possibilities](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
