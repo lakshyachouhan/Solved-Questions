@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3427-special-array-ii) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2868-continuous-subarrays) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3427-special-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3427-special-array-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -712,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
@@ -719,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
