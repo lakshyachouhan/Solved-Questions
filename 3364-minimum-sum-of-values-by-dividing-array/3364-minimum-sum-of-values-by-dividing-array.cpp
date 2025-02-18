@@ -1,5 +1,6 @@
 class Solution {
 public:
+//   T.C O(N^2 * M )
     // vector<vector<int>> dp ;
     // int solve(vector<int>& nums, vector<int>& andValues,int i,int andi){
 
@@ -28,6 +29,7 @@ public:
     //     return dp[i][andi] = ans ;
     // }
 
+//  T.C O(N * M)
      vector<vector<unordered_map<int,int>>> dp;
     int solve(vector<int>& nums, vector<int>& andValues, int i, int andi, int currVal) {
         if (i >= nums.size() && andi >= andValues.size())
