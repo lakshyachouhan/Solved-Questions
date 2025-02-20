@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
@@ -878,4 +881,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 <!---LeetCode Topics End-->
