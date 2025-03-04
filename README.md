@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1585-the-kth-factor-of-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2621-find-xor-beauty-of-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2621-find-xor-beauty-of-array) |
