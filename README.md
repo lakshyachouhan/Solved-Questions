@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
+| [2610-closest-prime-numbers-in-range](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
@@ -895,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 ## Memoization
