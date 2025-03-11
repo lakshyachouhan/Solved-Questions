@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1364-tuple-with-same-product](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
