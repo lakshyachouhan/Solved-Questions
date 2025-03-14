@@ -23,10 +23,8 @@ public:
         // Brute Force : Each ans (Candy ) ke liye try 
         // like 1,2,3,4, de skhte hai kya 
 
-        sort(candies.begin(),candies.end());
-        ll n = candies.size();
         ll s = 1 ;
-        ll e = candies[n-1];
+        ll e = *max_element(candies.begin(),candies.end());
 
         ll ans = 0 ;
 
