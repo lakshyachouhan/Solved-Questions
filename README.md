@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3265-maximum-good-subarray-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3265-maximum-good-subarray-sum) |
 | [3427-special-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2868-continuous-subarrays) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -817,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 ## Segment Tree
