@@ -9,7 +9,7 @@ public:
         if(adj.count(src) == 0)
             return vis[src] = 0 ;
 
-        vis[src] =  0;
+        vis[src] =  0; // cycle wala error 
 
         bool ans = 1;
         for(auto nbr:adj[src]){
