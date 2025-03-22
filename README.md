@@ -786,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Union Find
@@ -888,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2213-find-all-people-with-secret](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -906,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
