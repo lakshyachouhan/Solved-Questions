@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -901,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2213-find-all-people-with-secret](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2213-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -937,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -955,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
