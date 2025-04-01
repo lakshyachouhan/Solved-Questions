@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2262-solving-questions-with-brainpower](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
