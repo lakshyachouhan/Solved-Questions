@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
@@ -771,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -794,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -821,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -884,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
