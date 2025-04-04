@@ -1,5 +1,15 @@
 class Solution {
 public:
+/*
+Pattern Tpye : 
+        "answer based on previous answers" optimization:
+
+Find answer for 1st 
+Find answer for 2 (which includes 1)
+Find answer for 3 (which includes 1+2)
+*/ 
+
+
     vector<int> maxPoints(vector<vector<int>>& grid, vector<int>& queries) {
         int m = grid.size();
         int n = grid[0].size();
