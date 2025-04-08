@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
