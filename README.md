@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
