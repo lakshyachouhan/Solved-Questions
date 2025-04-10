@@ -35,6 +35,7 @@ public:
         
 
         for(int ele = 0; ele <= ub; ele++){
+            
             bool newTight = (tight && (ele == given[i] - '0'));
             ans += solve(given, s, newTight, limit, i + 1);
         }
@@ -54,6 +55,7 @@ public:
         memset(dp,-1,sizeof(dp));
         ll ans2 = solve(b, s, tight, limit, 0);
         
+        // cout << ans2 << "  " << ans1 << endl ;
         return ans2 - ans1;
     }
 };
