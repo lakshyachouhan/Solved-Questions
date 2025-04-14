@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1010-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1010-powerful-integers) |
+| [1656-count-good-triplets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
