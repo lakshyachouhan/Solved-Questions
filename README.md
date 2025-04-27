@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
