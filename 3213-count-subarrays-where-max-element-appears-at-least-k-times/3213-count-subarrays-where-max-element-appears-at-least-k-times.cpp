@@ -10,7 +10,7 @@ public:
         int count = 0 ;
         int i = 0 , j = 0 ;
         int n = nums.size();
-
+    
         while(j < n){
 
             if(nums[j] == maxi) count++;
