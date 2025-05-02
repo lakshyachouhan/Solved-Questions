@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [0806-domino-and-tromino-tiling](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1057-numbers-with-repeated-digits) |
