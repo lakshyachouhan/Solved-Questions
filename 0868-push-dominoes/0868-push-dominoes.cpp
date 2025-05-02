@@ -8,6 +8,7 @@ public:
 
         for(int i=0; i<n; i++){
             
+            // right wala force check 
             char ch = dominoes[i] ;
             if(ch == 'L')
                 c = 0 ;
@@ -23,6 +24,7 @@ public:
 
         for(int i=n-1; i>=0; i--){
             
+            // left wala force check 
             char ch = dominoes[i] ;
             if(ch == 'L')
                 c = 1 ;
