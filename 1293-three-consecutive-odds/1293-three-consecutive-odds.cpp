@@ -2,22 +2,14 @@ class Solution {
 public:
     bool threeConsecutiveOdds(vector<int>& arr) {
         
-        for(int i=0; i<arr.size(); ){
+        int n = arr.size();
 
-            int count = 0;
-            int j = i ;
-            while(j<arr.size() && (arr[j]&1)){
-                // cout << arr[j] << " " ;
-                count++;
-                if(count == 3)
-                  return true ;
+        for(int i=2; i<n; i++){
 
-                j++;  
-            }
-
-            i = j+1;
+            if(arr[i]&1 && arr[i-1]&1 && arr[i-2]&1)
+                return 1 ;
         }
 
-        return false ;
+        return 0 ;
     }
 };
