@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0806-domino-and-tromino-tiling](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0972-knight-dialer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1057-numbers-with-repeated-digits) |
 | [1063-best-sightseeing-pair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1063-best-sightseeing-pair) |
