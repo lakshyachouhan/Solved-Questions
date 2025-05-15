@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
