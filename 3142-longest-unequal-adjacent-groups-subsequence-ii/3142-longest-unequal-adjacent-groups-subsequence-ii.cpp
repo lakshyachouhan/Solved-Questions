@@ -73,10 +73,11 @@ public:
 
         // reverse(ans.begin(),ans.end());
 
-            // initialize the base‐case row so dp[n][*] == 0
-            int n = words.size();
+        // initialize the base‐case row so dp[n][*] == 0
+        int n = words.size();
         for (int prevIdx = 0; prevIdx <= n; ++prevIdx)
             dp[n][prevIdx] = 0;
+        // isse jab n-1 check krenge toh 0 return instead of -1 
 
 
         vector<string> ans;
