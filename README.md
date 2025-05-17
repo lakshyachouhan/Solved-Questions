@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0075-sort-colors) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0368-largest-divisible-subset](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
