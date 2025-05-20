@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
@@ -808,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1041,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2793-count-the-number-of-complete-components](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+| [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 ## Union Find
 |  |
 | ------- |
