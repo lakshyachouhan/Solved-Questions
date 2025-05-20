@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
 | ------- |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
