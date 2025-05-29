@@ -932,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -964,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
 |  |
@@ -1062,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 ## Union Find
