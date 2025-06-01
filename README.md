@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2089-maximum-matrix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1940-maximum-xor-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
