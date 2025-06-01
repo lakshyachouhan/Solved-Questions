@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
+| [0319-bulb-switcher](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0670-maximum-swap) |
@@ -1187,6 +1188,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Database
 |  |
