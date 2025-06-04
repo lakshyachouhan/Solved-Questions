@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Math
 |  |
