@@ -629,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0133-clone-graph) |
+| [0386-lexicographical-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0684-redundant-connection) |
