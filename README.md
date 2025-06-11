@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
 | ------- |
@@ -719,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -761,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
 | ------- |
