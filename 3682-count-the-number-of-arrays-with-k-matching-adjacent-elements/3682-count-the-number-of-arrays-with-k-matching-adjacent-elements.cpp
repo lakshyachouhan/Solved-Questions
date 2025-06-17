@@ -27,6 +27,8 @@ public:
         // n sizes , k pairs , so k+1 elements should be same 
         // remaining n-(k+1) = n-k-1 elements differnt 
         // m * (m-1)^(n-k-1) * 
+        /// total groups = n-k-1 + 1(for equal) = n-k
+        // but n is also reduced by 1 
         // but permuataions of above groups = n-1 C n-k-1
         // or n-1 C k // formula n C n-r
 
