@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
@@ -1253,4 +1254,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
