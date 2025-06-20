@@ -1,7 +1,5 @@
 class Solution {
 public:
-    unordered_map<int,char> mp = {{0,'N'},{1,'S'},{2,'E'},{3,'W'}};
-    
     int solve(string &s,char xdir, char ydir,int k){
 
         int x = 0 , y = 0;
