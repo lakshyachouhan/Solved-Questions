@@ -1,35 +1,30 @@
-#define ll long long 
-
 class Solution {
 public:
     int maxSubstrings(string word) {
 
-        ll n = word.size();
-        vector<vector<ll>> indexes(26);
+        // kyoki max. no. of substrings chaiye 
+        // toh jo pehle jisse match hoti jayegi , banate jayenge 
+        // Think , Think , Think 
 
-        for(ll i=0; i<n; i++){
-            indexes[word[i]-'a'].push_back(i);
-        }
+        vector<int> marking(26,-1);
+        int ans = 0;
 
-        vector<ll> next(n,-1);
-        for(ll i=0; i<n; i++){
+        for(int i=0; i<word.size(); i++){
 
             char ch = word[i];
-            auto it = lower_bound(indexes[ch-'a'].begin(),indexes[ch-'a'].end(),i+3);
-            if(it != indexes[ch-'a'].end())
-                next[i] = *it ;
-        }
+            if(marking[ch-'a'] != -1){
 
-        vector<ll> dp(n+1,0);
-        for(ll i=0; i<n; i++){
+                if(i-marking[ch-'a']+1 >= 4){
+                    ans++;
+                    for(int i=0; i<26;i++)
+                        marking[i] = -1 ;
 
-            ll k = next[i];
-            if(k != -1)
-                dp[k+1] = max(dp[k+1],dp[i] + 1);
-            
-            dp[i+1] = max(dp[i],dp[i+1]);
-        }
+                }
+            }
 
-        return dp[n];
+            else marking[ch-'a'] = i ;
+        }   
+
+        return ans ;
     }
 };
