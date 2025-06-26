@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3647-zero-array-transformation-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3639-zero-array-transformation-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3646-sum-of-good-subsequences) |
+| [3647-zero-array-transformation-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -718,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3721-count-mentions-per-user](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3721-count-mentions-per-user) |
@@ -797,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3639-zero-array-transformation-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -850,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
