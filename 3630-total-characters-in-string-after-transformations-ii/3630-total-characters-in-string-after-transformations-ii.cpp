@@ -1,3 +1,4 @@
+// LC 3337
 #define ll long long
 const ll MOD = 1e9 + 7;
 
@@ -22,7 +23,7 @@ public:
     }
 
     vector<vector<ll>> matrixExpo(vector<vector<ll>> base, int power) {
-
+                                                                                    
         vector<vector<ll>> ans(26, vector<ll>(26, 0));
         for (int i = 0; i < 26; i++) 
                 ans[i][i] = 1; // identity
@@ -32,8 +33,8 @@ public:
             base = multiply(base, base);
             power >>= 1;
         }
-        return ans;
 
+        return ans;
     }
 
     int lengthAfterTransformations(string s, int t, vector<int>& nums) {
@@ -44,6 +45,9 @@ public:
         }
 
         vector<vector<ll>> trans(26, vector<ll>(26, 0));
+        // ek step mein i kis kis mein convert ho skta hai
+        // i wale se kon kon se bn rhe hai 
+        // unki ++
         for (int i = 0; i < 26; i++) {
 
             for (int j = 1; j <= nums[i]; j++) 
@@ -51,6 +55,8 @@ public:
             
         }
 
+        // t tranformations ke baad , kon kise finally bn rha hai
+        // a-> b , b->c in one , but in two a->c directly 
         vector<vector<ll>> mat = matrixExpo(trans, t);
 
         vector<ll> newFreq(26, 0);
