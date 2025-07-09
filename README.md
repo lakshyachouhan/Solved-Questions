@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1835-decode-xored-permutation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1835-decode-xored-permutation) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -711,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -971,6 +974,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
