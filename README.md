@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2610-closest-prime-numbers-in-range](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2621-find-xor-beauty-of-array) |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2649-count-total-number-of-colored-cells](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2621-find-xor-beauty-of-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2621-find-xor-beauty-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2615-make-number-of-distinct-characters-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1268,6 +1271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2716-prime-subtraction-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
