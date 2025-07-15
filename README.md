@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0961-long-pressed-name) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1160-letter-tile-possibilities) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
+| [0961-long-pressed-name](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0961-long-pressed-name) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
