@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1880-largest-merge-of-two-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1880-largest-merge-of-two-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1880-largest-merge-of-two-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1880-largest-merge-of-two-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1794-minimize-deviation-in-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1794-minimize-deviation-in-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1880-largest-merge-of-two-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
