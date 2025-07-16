@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3442-maximum-total-reward-using-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
