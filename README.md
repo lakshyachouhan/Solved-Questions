@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3737-paint-house-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3737-paint-house-iv) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Greedy
 |  |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
