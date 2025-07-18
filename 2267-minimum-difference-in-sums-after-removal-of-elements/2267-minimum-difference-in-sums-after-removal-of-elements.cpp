@@ -4,65 +4,62 @@ class Solution {
 public:
     long long minimumDifference(vector<int>& nums) {
         
+        // left[i] -> sum of n min. elements including current index from left 
+        // right[i] -> sum of n max. elements including current index from right
+
+        ll size = nums.size(); // 3 * n
+        ll n = size/3 ;
+
+        priority_queue<ll,vector<ll>,greater<ll>> minHeap ; // to get sum of n max. elements
         priority_queue<ll> maxHeap ;
-        priority_queue<ll,vector<ll>,greater<ll>> minHeap ;
 
-        ll n = nums.size();
-        vector<ll> left(n,-1);      // left se n min. elements ka sum
-        vector<ll> right(n,-1);     // right ne n max. elements ka sum
-
-                /*
-            left mein bhi ith element included hai
-            & right mein bhi ith element included hai
-        */
-
-        ll s = n/3 ;
+        vector<ll> left(size);
+        vector<ll> right(size);
         ll sum = 0 ;
+
         for(ll i=0; i<n; i++){
+            maxHeap.push(nums[i]);
+            sum += nums[i];
+        }
+
+        left[n-1] = sum ;
+
+        for(ll i=n; i<size; i++){
 
             maxHeap.push(nums[i]);
             sum += nums[i];
 
-            if(maxHeap.size() > s){
-                sum -= maxHeap.top();
-                maxHeap.pop();
+            sum -= maxHeap.top();
+            maxHeap.pop();
 
-                // max. wala remove krenge toh minimum sum milega 
-            }
-
-            // size s ke equal ho tabhi update 
-            if(maxHeap.size() == s)
-                left[i] = sum ;
+            left[i] = sum ;
         }
 
-
-        sum = 0 ;
-        for(ll i=n-1; i>=0; i--){
-
-            sum += nums[i];
+        sum = 0;
+        for(ll i=size-1; i>=size-n; i--){
             minHeap.push(nums[i]);
+            sum += nums[i];
+        }
 
-            if(minHeap.size() > s){
-                sum -= minHeap.top();
-                minHeap.pop();
-            }
+        right[size-n] = sum ;
+        for(ll i=size-n-1; i>=0; i--){
 
-            if(minHeap.size() == s)
-                 right[i] = sum ;
+            minHeap.push(nums[i]);
+            sum += nums[i];
+
+            sum -= minHeap.top();
+            minHeap.pop();
+
+            right[i] = sum ;
         }
 
         ll ans = LLONG_MAX ;
-        for(ll i=0; i<n-1; i++){
-
-            // cout << " index " << i << "  " << left[i] << "   "<< right[i] << endl;
-
-            if(left[i] == -1 || right[i] == -1)
-                continue;
+        for(ll i=n-1; i<size-n; i++){
 
             ll curr = left[i] - right[i+1];
             ans = min(ans,curr);
-        }
+        } 
 
-        return ans ;    
+        return ans ;
     }
 };
