@@ -1,56 +1,32 @@
 class Solution {
 public:
-    static bool comp(const string &a, const string &b) {
-
-        return a.size() < b.size();
-    }
-
     vector<string> removeSubfolders(vector<string>& folder) {
         
-        sort(folder.begin(),folder.end(),comp);
-        // so that parent folders come before in the array 
-        // as parent folder will always have small length 
-        
-        unordered_set<string> st ;
+        unordered_map<string,bool> found ;
+        vector<string> ans ;
+
+        sort(folder.begin(),folder.end());
 
         for(auto &s:folder){
 
-            bool found = 0 ;
-            string currFolder ;
-            currFolder.push_back('/');
-            int i = 1 ;
-            // this also working  correctly 
-            // int j = s.find('/',i) ;
-            // while(j != -1){
+            string temp = "";
+            for(int i=0; i<s.size(); i++){
 
-            //     for(int k=i; k<j; k++) currFolder.push_back(s[k]);
-            //     if(st.find(currFolder) != st.end()){
-            //         found = 1 ;
-            //         break ;
-            //     } 
+                temp += s[i];
 
-            //     currFolder.push_back('/');
-            //     i = j+1 ;
-            //     j = s.find('/',i) ;
-            // }
-
-            while(i < s.size()){
-
-                if(s[i] == '/'){
-                    // check abhi tak ka folder or parent folder 
-                    if(st.find(currFolder) != st.end()){
-                        found = 1 ;
-                        break ;
-                    }
+                if(found.count(temp) && i+1 < s.size() && s[i+1] == '/'){
+                    // matlab ye subfolder hai
+                    // ans mein toh nhi ayega 
+                    break ;
                 }
-
-                currFolder.push_back(s[i]);
-                i++;
             }
 
-            if(!found)  st.insert(s);
+            if(temp.size() == s.size()){
+                ans.push_back(s);
+                found[s] = 1 ;
+            }
         }
 
-        return vector<string>(st.begin(),st.end());
+        return ans ;
     }
 };
