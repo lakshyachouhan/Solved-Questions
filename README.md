@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
 | [0961-long-pressed-name](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0961-long-pressed-name) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
+| [1028-interval-list-intersections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1025-minimum-cost-for-tickets) |
+| [1028-interval-list-intersections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1373,4 +1375,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
