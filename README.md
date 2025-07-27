@@ -571,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3265-maximum-good-subarray-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3265-maximum-good-subarray-sum) |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3265-maximum-good-subarray-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3265-maximum-good-subarray-sum) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -780,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3107-maximum-spending-after-buying-items](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3107-maximum-spending-after-buying-items) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
