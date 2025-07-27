@@ -502,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
