@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0806-domino-and-tromino-tiling](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0972-knight-dialer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1057-numbers-with-repeated-digits) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0952-word-subsets) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
@@ -1158,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1054-complement-of-base-10-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1054-complement-of-base-10-integer) |
 | [1835-decode-xored-permutation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1835-decode-xored-permutation) |
 | [1940-maximum-xor-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1940-maximum-xor-for-each-query) |
