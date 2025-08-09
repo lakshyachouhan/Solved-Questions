@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0650-2-keys-keyboard) |
@@ -1173,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
@@ -1318,6 +1320,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0231-power-of-two) |
 | [0763-special-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
