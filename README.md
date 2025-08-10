@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1010-powerful-integers) |
 | [1057-numbers-with-repeated-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1057-numbers-with-repeated-digits) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0940-fruit-into-baskets) |
@@ -760,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1169-largest-values-from-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
@@ -1004,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1169-largest-values-from-labels) |
