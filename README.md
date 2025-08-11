@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2551-apply-operations-to-an-array) |
@@ -887,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2529-range-product-queries-of-powers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2915-count-of-interesting-subarrays) |
@@ -1197,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2621-find-xor-beauty-of-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
