@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2340-total-appeal-of-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2340-total-appeal-of-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
