@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0670-maximum-swap) |
@@ -1184,6 +1185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1330,6 +1332,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0342-power-of-four) |
 | [0763-special-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
