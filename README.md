@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2610-closest-prime-numbers-in-range](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1149,6 +1151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1260,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1306,6 +1310,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2213-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1417,6 +1422,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Combinatorics
