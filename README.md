@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0937-online-stock-span) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0338-counting-bits) |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -1013,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0937-online-stock-span) |
