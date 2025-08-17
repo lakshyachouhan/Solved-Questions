@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
+| [0564-find-the-closest-palindrome](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0763-special-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0368-largest-divisible-subset) |
+| [0564-find-the-closest-palindrome](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
