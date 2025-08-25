@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2048-build-array-from-permutation) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1002,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0741-cherry-pickup](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
