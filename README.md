@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -1007,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0085-maximal-rectangle) |
@@ -1369,6 +1372,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1160-letter-tile-possibilities) |
