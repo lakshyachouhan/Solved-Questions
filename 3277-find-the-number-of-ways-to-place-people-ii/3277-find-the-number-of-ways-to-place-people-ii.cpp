@@ -31,7 +31,6 @@ public:
                     ans++;
                     limitY = ty ;
                 }
-
             }
 
         }
