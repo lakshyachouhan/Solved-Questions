@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2339-k-divisible-elements-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2339-k-divisible-elements-subarrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1259,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1452,6 +1454,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Database
 |  |
 | ------- |
