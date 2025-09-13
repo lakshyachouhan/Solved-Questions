@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -787,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -1097,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
