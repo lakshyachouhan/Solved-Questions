@@ -1,76 +1,85 @@
-class compare {
-public:
-    bool operator()(pair<int, pair<int, int>>& a, pair<int, pair<int, int>>& b) {
-        
-        if (a.first == b.first)
-            return a.second.second < b.second.second;
-
-        
-        return a.first < b.first;
-    }
-};
-
 class TaskManager {
 public:
-    priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, compare> maxHeap;
-    unordered_map<int, pair<int, int>> taskUpdate;
-    unordered_set<int> remove;
+    unordered_map<int,int> taskIdPriority ;
+    unordered_map<int,int> taskIdUserID; 
+    // Very Imp Obs. : ek task ek hi userId se belong krega 
+
+    map<int,set<int>> userTaskIds ; // after removing taskId
+    priority_queue<tuple<int,int,int>> maxHeap ;
 
     TaskManager(vector<vector<int>>& tasks) {
         
-        for (auto i : tasks) {
-            int uid = i[0], tid = i[1], p = i[2];
-            maxHeap.push({p, {uid, tid}});
-            taskUpdate[tid] = {uid, p};
-        }
-        
-    }
+        for(auto &v:tasks){
 
+            int u = v[0] , t = v[1] ,  p = v[2] ;
+            taskIdPriority[t] = p ;
+            userTaskIds[u].insert(t);
+            taskIdUserID[t] = u ;
+            maxHeap.push({p,t,u});
+        }
+    }
+    
     void add(int userId, int taskId, int priority) {
         
-        maxHeap.push({priority, {userId, taskId}});
-        taskUpdate[taskId] = {userId, priority};
-        remove.erase(taskId);
-        
+        taskIdPriority[taskId] = priority ;
+        taskIdUserID[taskId] = userId ;
+        userTaskIds[userId].insert(taskId);
+        maxHeap.push({priority,taskId,userId});
     }
-
+    
     void edit(int taskId, int newPriority) {
         
-        int uid = taskUpdate[taskId].first;
-        taskUpdate[taskId] = {uid, newPriority};
-        maxHeap.push({newPriority, {uid, taskId}});
-    }
+        taskIdPriority[taskId] = newPriority ;
+        // for(auto &[u,setTask]:userTaskIds){
 
+        //     if(setTask.find(taskId) != setTask.end()){
+
+        //         maxHeap.push({newPriority,taskId,u});
+        //     }
+        // }
+
+        int u = taskIdUserID[taskId] ;
+        maxHeap.push({newPriority,taskId,u});
+    }
+    
     void rmv(int taskId) {
-        
-        taskUpdate.erase(taskId);
-        remove.insert(taskId);
-    }
 
+        taskIdPriority.erase(taskId);
+        int u = taskIdUserID[taskId] ;
+        userTaskIds[u].erase(taskId) ;
+
+    }
+    
     int execTop() {
         
-        while (!maxHeap.empty()) {
-            auto top = maxHeap.top();
+        while(!maxHeap.empty()){
+
+            auto [p,t,u] = maxHeap.top();
             maxHeap.pop();
 
-            int p = top.first;
-            int uid = top.second.first, tid = top.second.second;
+            if(taskIdPriority.count(t)){
+                
+                // check for updation 
+                if(taskIdPriority[t] != p)
+                    continue ;
 
-            if (remove.count(tid)) {
-                continue;
+                else{
+                    rmv(t);
+                    return u ;
+                }
             }
 
-            if (!taskUpdate.count(tid) || taskUpdate[tid].second != p || 
-            taskUpdate[tid].first != uid) {
-                continue;
-            }
-
-            taskUpdate.erase(tid);
-            remove.insert(tid);
-            return uid;
         }
 
-        
-        return -1;
+        return -1 ;
     }
 };
+
+/**
+ * Your TaskManager object will be instantiated and called as such:
+ * TaskManager* obj = new TaskManager(tasks);
+ * obj->add(userId,taskId,priority);
+ * obj->edit(taskId,newPriority);
+ * obj->rmv(taskId);
+ * int param_4 = obj->execTop();
+ */
