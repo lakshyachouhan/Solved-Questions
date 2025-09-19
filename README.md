@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -796,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -1069,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 ## Monotonic Stack
 |  |
@@ -1171,6 +1175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
