@@ -690,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3827-implement-router) |
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -799,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3827-implement-router) |
 | [3837-grid-teleportation-traversal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3837-grid-teleportation-traversal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -980,6 +982,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2868-continuous-subarrays) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1037,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -1163,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+| [3827-implement-router](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
@@ -1176,6 +1181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
