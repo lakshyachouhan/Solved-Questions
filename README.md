@@ -637,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3265-maximum-good-subarray-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3265-maximum-good-subarray-sum) |
@@ -781,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3265-maximum-good-subarray-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3265-maximum-good-subarray-sum) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1116,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2615-make-number-of-distinct-characters-equal) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
