@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
+| [0165-compare-version-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0564-find-the-closest-palindrome) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
