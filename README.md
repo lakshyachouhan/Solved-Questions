@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0564-find-the-closest-palindrome) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0048-rotate-image) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0342-power-of-four) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
