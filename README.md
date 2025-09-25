@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0413-arithmetic-slices) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0200-number-of-islands) |
