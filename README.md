@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1010-powerful-integers) |
 | [1057-numbers-with-repeated-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1057-numbers-with-repeated-digits) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0830-largest-triangle-area](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1533,6 +1535,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0830-largest-triangle-area) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
