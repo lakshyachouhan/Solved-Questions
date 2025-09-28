@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1169-largest-values-from-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1304-longest-happy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1304-longest-happy-string) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1010-powerful-integers) |
+| [1018-largest-perimeter-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1057-numbers-with-repeated-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1057-numbers-with-repeated-digits) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -848,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-k-th-smallest-prime-fraction](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0985-bag-of-tokens](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1169-largest-values-from-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1397-search-suggestions-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1397-search-suggestions-system) |
