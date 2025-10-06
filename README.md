@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0741-cherry-pickup) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0830-largest-triangle-area](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0830-largest-triangle-area) |
@@ -1019,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0794-swim-in-rising-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1304-longest-happy-string) |
@@ -1080,6 +1082,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0741-cherry-pickup](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -1156,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0729-my-calendar-i) |
+| [0794-swim-in-rising-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1251,6 +1255,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1369,6 +1374,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1407,6 +1413,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
