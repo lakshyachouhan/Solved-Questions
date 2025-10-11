@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3195-separate-black-and-white-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3243-count-the-number-of-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -813,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -908,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3647-zero-array-transformation-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
@@ -1155,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1206,6 +1212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3427-special-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
