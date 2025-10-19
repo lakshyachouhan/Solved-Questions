@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1880-largest-merge-of-two-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1289,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1407,6 +1410,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
