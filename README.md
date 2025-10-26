@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2164-two-best-non-overlapping-events) |
+| [2169-simple-bank-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -787,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1239,6 +1242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3678-design-task-manager) |
