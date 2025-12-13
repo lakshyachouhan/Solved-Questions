@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3606-coupon-code-validator](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -856,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3583-count-special-triplets) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3606-coupon-code-validator](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -950,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3606-coupon-code-validator](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3647-zero-array-transformation-iii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
