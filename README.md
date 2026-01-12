@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1010-powerful-integers](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1010-powerful-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1057-numbers-with-repeated-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1057-numbers-with-repeated-digits) |
+| [1266-minimum-time-visiting-all-points](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1169-largest-values-from-labels](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1293-three-consecutive-odds) |
 | [1308-smallest-string-with-swaps](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1308-smallest-string-with-swaps) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1625,6 +1627,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/lakshyachouhan/Solved-Questions/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/lakshyachouhan/Solved-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lakshyachouhan/Solved-Questions/tree/master/2206-detonate-the-maximum-bombs) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lakshyachouhan/Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
